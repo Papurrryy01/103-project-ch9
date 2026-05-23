@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//Finbal Assignment 
 class Professor {
     var firstName: String
     var lastName: String
